@@ -217,7 +217,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("JOIN US", url=https://t.me/Cybermediaworks)
+                    InlineKeyboardButton("Support Group", url="https://t.me/Cybermediaworks")
                 ]
             ]
         ),
